@@ -21,7 +21,7 @@ Materials used for GAN study
   - **DANN**: 연세대학교 정보산업공학과 ISD lab. **김상진**
   - **learning by association**: 연세대학교 정보산업공학과 ISD lab. **김상진**
 ## 7회차
-  - **Generating sentences froma continuous space**: 고려대학교 산업경영공학과 DSBA lab. **서덕성**
+  - **Generating sentences from continuous space**: 고려대학교 산업경영공학과 DSBA lab. **서덕성**
   - **A hybrid convolutional variational autoencoder for text generation**: 고려대학교 산업경영공학과 DSBA lab. **서덕성**
   - **Generating Text via Adversarial Training**: 고려대학교 산업경영공학과 DSBA lab. **서승완**
   - **Toward Controlled Generation of Text**: 고려대학교 산업경영공학과 DSBA lab. **서승완**
